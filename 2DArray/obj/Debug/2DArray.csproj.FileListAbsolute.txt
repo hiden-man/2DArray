@@ -1,0 +1,8 @@
+D:\C#_Code_Sources\Console\2DArray\2DArray\bin\Debug\2DArray.exe.config
+D:\C#_Code_Sources\Console\2DArray\2DArray\bin\Debug\2DArray.exe
+D:\C#_Code_Sources\Console\2DArray\2DArray\bin\Debug\2DArray.pdb
+D:\C#_Code_Sources\Console\2DArray\2DArray\obj\Debug\2DArray.csproj.AssemblyReference.cache
+D:\C#_Code_Sources\Console\2DArray\2DArray\obj\Debug\2DArray.csproj.SuggestedBindingRedirects.cache
+D:\C#_Code_Sources\Console\2DArray\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+D:\C#_Code_Sources\Console\2DArray\2DArray\obj\Debug\2DArray.exe
+D:\C#_Code_Sources\Console\2DArray\2DArray\obj\Debug\2DArray.pdb
